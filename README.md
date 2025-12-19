@@ -11,8 +11,9 @@ Simulate the flow of patients through a new specialised Diabetes Centre in a hos
 5) Create a resource schedule for the different resources. Pool resources that can do the same task.
 6) Create KPI's such as time in the system and waiting time at reception.
 7) Create an accurate warm up period before recording KPI's to allow the system to enter a steady state, calculated using Welch's procedure.
-8) Simulate 100's of runs to accurately create 95% confidence intervals for KPI's.
+8) Simulate 100's of runs to accurately create 95% confidence intervals for KPI's (Monte Carlo Simulation).
 9) Calculate paired t confidence intervals accurately (the confidence intervals of the differences not the diffrence of the confidence intervals).
+10) Documented all assumptions in a log.
 
 ## Annotated Model
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/77ecce68-24ad-47d2-bb05-0fa6c47b5ffb" />
